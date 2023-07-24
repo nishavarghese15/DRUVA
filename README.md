@@ -9,3 +9,14 @@ Please fill in
 https://docs.google.com/forms/d/e/1FAIpQLSfWQ23Nn7sB5CQ3n9p-e-p49Zeh-os45QVfXxl5tTXQVDkstw/viewform?usp=sf_link
 
 After you fill out this form, you will receive an e-mail notification (within 2 days) with the link to download the dataset.
+
+## Cite Us
+'''
+@inproceedings{RealTimeDarkImageRestorationCvpr2021,
+  title={Restoring Extremely Dark Images in Real Time},
+  author={Lamba, Mohit and Mitra, Kaushik},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3487--3497},
+  year={2021}
+}
+'''
