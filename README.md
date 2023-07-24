@@ -12,11 +12,11 @@ After you fill out this form, you will receive an e-mail notification (within 2 
 
 ## Cite Us
 ```
-@inproceedings{RealTimeDarkImageRestorationCvpr2021,
-  title={Restoring Extremely Dark Images in Real Time},
-  author={Lamba, Mohit and Mitra, Kaushik},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={3487--3497},
-  year={2021}
+@inproceedings{selfsupMonocularDepthImageICCV2023,
+  title={Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset},
+  author={Nisha Varghese, Ashish Kumar, A. N. Rajagopalan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2023)},
+  pages={},
+  year={2023}
 }
 ```
