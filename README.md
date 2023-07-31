@@ -4,6 +4,9 @@ Dataset proposed in "Self-supervised Monocular Underwater Depth Recovery, Image 
 
 ![GIF1](https://github.com/nishavarghese15/DRUVA--Dataset-of-Real-world-Underwater-Videos-of-Artifacts-/assets/93310210/deb2e5da-e283-42da-bb73-9fe7247b4d73)
 
+## Summary of DRUVA
+
+
 ## How to access the Dataset?
 1. Read the DRUVA release agreement: https://drive.google.com/file/d/1MLAKg-JOOlKluLX6P7rjzVTRPKrhlhcb/view?usp=sharing
 1. Keep the signed copy of the above agreement form.
