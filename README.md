@@ -8,7 +8,7 @@ Dataset proposed in "Self-supervised Monocular Underwater Depth Recovery, Image 
 Please fill in 
 https://docs.google.com/forms/d/e/1FAIpQLSfWQ23Nn7sB5CQ3n9p-e-p49Zeh-os45QVfXxl5tTXQVDkstw/viewform?usp=sf_link
 
-After you fill out this form, you will receive an e-mail notification (within 2 days) with the link to download the dataset.
+After you fill out this form, you will receive an e-mail notification (within 5 days) with the link to download the dataset.
 
 ## Cite Us
 ```
