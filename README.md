@@ -8,7 +8,7 @@ Dataset proposed in "Self-supervised Monocular Underwater Depth Recovery, Image 
 1. DRUVA contains video sequences of 20 different artifacts (artifacts are mainly rocks of dimension 0.5 to 1 meter) in shallow waters.
 1. Each video (about 30 sec to 3 min long) contains an almost 360◦ azimuthal view of the artifact with a scene depth of 0.5 to 4 meters.
 1. DRUVA is captured using GoPro Hero 10 Black camera with 30 fps and 1920 × 1080 resolution. DRUVA contains the intrinsics of the camera also.
-1. DRUVA can be used for underwater (UW) research fields like UW 3D reconstruction, UW novel view-synthesis using neural radiance fields (NeRFs), UW video interpolation, and extrapolation.
+1. DRUVA can be used for underwater (UW) research fields like UW 3D reconstruction, UW novel view-synthesis using neural radiance fields (NeRFs), UW video interpolation, and extrapolation, etc.
 
 
 ## How to access the Dataset?
