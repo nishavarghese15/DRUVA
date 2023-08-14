@@ -20,7 +20,7 @@ Dataset proposed in "Self-supervised Monocular Underwater Depth Recovery, Image 
 After you fill out this form, you will receive an e-mail notification (within 5 days) with the link to download the dataset.
 
 ## Acknowledgement
-Support provided by the Department of Science and Technology, India through project No. EE1920271DSTX005001 is gratefully acknowledged. We thank Dr. Sundaresh and his team from National Institute of Oceanography, Goa for helping us in collecting the underwater data.
+Support provided by the Department of Science and Technology, India through project No. EE1920271DSTX005001 is gratefully acknowledged. We thank Dr. Sundaresh and his team from National Institute of Oceanography, Goa for helping us in collecting the underwater data.
 
 
 ## Cite Us
