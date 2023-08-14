@@ -20,6 +20,7 @@ Dataset proposed in "Self-supervised Monocular Underwater Depth Recovery, Image 
 After you fill out this form, you will receive an e-mail notification (within 5 days) with the link to download the dataset.
 
 ## Cite Us
+If you use DRUVA, please consider citing:
 ```
 @inproceedings{selfsupMonocularDepthImageICCV2023,
   title={Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset},
