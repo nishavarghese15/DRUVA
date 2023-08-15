@@ -1,36 +1,36 @@
 # DRUVA: Dataset of Real-world Underwater Videos of Artifacts
-Dataset proposed in "Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset", ICCV 2023.
+Dataset proposed in "Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset", IEEE International Conference on Computer Vision (ICCV), Paris, France, October 2023.
 
 
 ![GIF1](https://github.com/nishavarghese15/DRUVA--Dataset-of-Real-world-Underwater-Videos-of-Artifacts-/assets/93310210/deb2e5da-e283-42da-bb73-9fe7247b4d73)
 
 ## Summary of DRUVA
-1. DRUVA contains video sequences of 20 different artifacts (artifacts are mainly rocks of dimension 0.5 to 1 meter) in shallow waters.
-1. Each video (about 30 sec to 3 min long) contains an almost 360◦ azimuthal view of the artifact with a scene depth of 0.5 to 4 meters.
-1. DRUVA is captured using GoPro Hero 10 Black camera with 30 fps and 1920 × 1080 resolution. DRUVA contains the intrinsics of the camera also.
-1. DRUVA can be used for underwater (UW) research fields like UW 3D reconstruction, UW novel view-synthesis using neural radiance fields (NeRFs), UW video interpolation, and extrapolation, etc.
+1. DRUVA contains video sequences of 20 different artifacts (artifacts are mainly submerged rocks of dimension 0.5 meters to 1 meter) in shallow waters.
+1. Each video contains an almost 360◦ azimuthal view of the artifact with a scene depth of 0.5 to 4 meters.
+1. DRUVA is captured using GoPro Hero 10 Black camera with 30 fps and 1920 × 1080 resolution. It contains the intrinsics of the camera also.
+1. DRUVA can be used by underwater (UW) researchers for 3D reconstruction, novel view-synthesis using neural radiance fields (NeRFs), video interpolation, and extrapolation, to name a few.
 
 
 ## How to access the Dataset?
 1. Read the DRUVA release agreement: https://drive.google.com/file/d/1vIeTYm4PnHMtNbYcrvoQ5adNauP5Y8Xu/view?usp=sharing
-1. Keep the signed copy of the above agreement form.
-1. Fill in the form https://docs.google.com/forms/d/e/1FAIpQLSfWQ23Nn7sB5CQ3n9p-e-p49Zeh-os45QVfXxl5tTXQVDkstw/viewform?usp=sf_link
-1. Upload the agreement in the required field of the above form.
+1. Get a signed copy of the above agreement form.
+1. Enter your details in the request form https://docs.google.com/forms/d/e/1FAIpQLSfWQ23Nn7sB5CQ3n9p-e-p49Zeh-os45QVfXxl5tTXQVDkstw/viewform?usp=sf_link
+1. Upload the agreement as part of the request form.
 
-After you fill out this form, you will receive an e-mail notification (within 5 days) with the link to download the dataset.
+After you submit the request form, you will receive an e-mail notification (within 5 working days) with the link to download the dataset.
 
 ## Acknowledgement
 Support provided by the Department of Science and Technology, India through project No. EE1920271DSTX005001 is gratefully acknowledged. We thank Dr. Sundaresh and his team from National Institute of Oceanography, Goa for helping us in collecting the underwater data.
 
 
 ## Cite Us
-If you use DRUVA, please consider citing:
+If you use DRUVA, please cite the following work:
 ```
 @inproceedings{selfsupMonocularDepthImageICCV2023,
   title={Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset},
   author={Nisha Varghese, Ashish Kumar, A. N. Rajagopalan},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2023)},
-  pages={},
+  pages={1-11},
   year={2023}
 }
 ```
