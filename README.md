@@ -14,7 +14,7 @@ Dataset proposed in "Self-supervised Monocular Underwater Depth Recovery, Image 
 ## How to access the Dataset?
 1. Read the DRUVA release agreement: https://drive.google.com/file/d/1vIeTYm4PnHMtNbYcrvoQ5adNauP5Y8Xu/view?usp=sharing
 1. Get a signed copy of the above agreement form.
-1. Enter your details in the request form https://docs.google.com/forms/d/e/1FAIpQLSfogZJEnT0VJL-xc8AaA4UXLm4HDZtj5v1Z1OLLrQW25G5ETQ/viewform?usp=sharing
+1. Enter your details in the request form https://drive.google.com/file/d/1o_5mlieWYT9FwOlj1oDqbhzm6Q-13RAS/view?usp=sharing
 1. Upload the agreement as part of the request form.
 
 After you submit the request form, you will receive an e-mail notification (within 5 working days) with the link to download the dataset.
