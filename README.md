@@ -1,5 +1,5 @@
 # DRUVA: Dataset of Real-world Underwater Videos of Artifacts
-Dataset proposed in "Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset", IEEE International Conference on Computer Vision (ICCV), Paris, France, pp. 1-11, October 2023.
+Dataset proposed in "Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset", IEEE International Conference on Computer Vision (ICCV), Paris, France, pp. 12248-12258, October 2023.
 
 
 ![GIF1](https://github.com/nishavarghese15/DRUVA--Dataset-of-Real-world-Underwater-Videos-of-Artifacts-/assets/93310210/deb2e5da-e283-42da-bb73-9fe7247b4d73)
@@ -26,11 +26,12 @@ Support provided by the Department of Science and Technology, India through proj
 ## Cite Us
 If you use DRUVA, please cite the following work:
 ```
-@inproceedings{selfsupMonocularDepthImageICCV2023,
-  title={Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset},
-  author={Nisha Varghese, Ashish Kumar, A. N. Rajagopalan},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2023)},
-  pages={1-11},
-  year={2023}
+@InProceedings{Varghese_2023_ICCV,
+    author    = {Varghese, Nisha and Kumar, Ashish and Rajagopalan, A. N.},
+    title     = {Self-supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-sea Video Dataset},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {12248-12258}
 }
 ```
